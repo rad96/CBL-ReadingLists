@@ -69,6 +69,9 @@
 <Book Series="Silver Sable and the Wild Pack" Number="14" Volume="1992" Year="1993">
 <Database Name="cv" Series="4810" Issue="68453" />
 </Book>
+<Book Series="Silver Sable and the Wild Pack" Number="14" Volume="1992" Year="1993">
+<Database Name="cv" Series="4810" Issue="68453" />
+</Book>
 <Book Series="Wolverine" Number="69" Volume="1988" Year="1993">
 <Database Name="cv" Series="4250" Issue="37260" />
 </Book>
