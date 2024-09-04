@@ -3327,6 +3327,9 @@
 <Book Series="The Incredible Hulk" Number="403" Volume="1968" Year="1993">
 <Database Name="cv" Series="2406" Issue="36972" />
 </Book>
+<Book Series="The Incredible Hulk" Number="403" Volume="1968" Year="1993">
+<Database Name="cv" Series="2406" Issue="36972" />
+</Book>
 <Book Series="The Incredible Hulk" Number="404" Volume="1968" Year="1993">
 <Database Name="cv" Series="2406" Issue="37090" />
 </Book>
