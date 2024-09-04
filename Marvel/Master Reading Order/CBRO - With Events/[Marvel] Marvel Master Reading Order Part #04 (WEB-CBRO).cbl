@@ -3360,6 +3360,9 @@
 <Book Series="X-Men" Number="18" Volume="1991" Year="1993">
 <Database Name="cv" Series="4605" Issue="36988" />
 </Book>
+<Book Series="X-Men" Number="18" Volume="1991" Year="1993">
+<Database Name="cv" Series="4605" Issue="36988" />
+</Book>
 <Book Series="X-Men" Number="19" Volume="1991" Year="1993">
 <Database Name="cv" Series="4605" Issue="37107" />
 </Book>
