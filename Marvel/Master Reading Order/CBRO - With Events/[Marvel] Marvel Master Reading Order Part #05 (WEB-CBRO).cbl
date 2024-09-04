@@ -165,6 +165,9 @@
 <Book Series="Marc Spector: Moon Knight" Number="56" Volume="1989" Year="1993">
 <Database Name="cv" Series="4230" Issue="38099" />
 </Book>
+<Book Series="Marc Spector: Moon Knight" Number="56" Volume="1989" Year="1993">
+<Database Name="cv" Series="4230" Issue="38099" />
+</Book>
 <Book Series="Terror Inc." Number="13" Volume="1992" Year="1993">
 <Database Name="cv" Series="4814" Issue="37429" />
 </Book>
