@@ -21,6 +21,9 @@
 <Book Series="Doctor Strange, Sorcerer Supreme" Number="53" Volume="1988" Year="1993">
 <Database Name="cv" Series="4049" Issue="37257" />
 </Book>
+<Book Series="Doctor Strange, Sorcerer Supreme" Number="53" Volume="1988" Year="1993">
+<Database Name="cv" Series="4049" Issue="37257" />
+</Book>
 <Book Series="Venom: Lethal Protector" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="5059" Issue="57641" />
 </Book>
