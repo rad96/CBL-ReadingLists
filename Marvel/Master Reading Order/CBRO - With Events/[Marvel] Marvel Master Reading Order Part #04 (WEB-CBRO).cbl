@@ -3315,6 +3315,9 @@
 <Book Series="X-Factor" Number="88" Volume="1986" Year="1993">
 <Database Name="cv" Series="3657" Issue="36986" />
 </Book>
+<Book Series="X-Factor" Number="88" Volume="1986" Year="1993">
+<Database Name="cv" Series="3657" Issue="36986" />
+</Book>
 <Book Series="X-Factor" Number="89" Volume="1986" Year="1993">
 <Database Name="cv" Series="3657" Issue="37105" />
 </Book>
