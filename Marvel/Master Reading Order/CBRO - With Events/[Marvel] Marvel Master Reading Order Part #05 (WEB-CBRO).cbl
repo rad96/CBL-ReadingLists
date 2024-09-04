@@ -141,6 +141,9 @@
 <Book Series="The Infinity Crusade" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="5019" Issue="108552" />
 </Book>
+<Book Series="The Infinity Crusade" Number="1" Volume="1993" Year="1993">
+<Database Name="cv" Series="5019" Issue="108552" />
+</Book>
 <Book Series="Iron Man" Number="294" Volume="1968" Year="1993">
 <Database Name="cv" Series="2407" Issue="134719" />
 </Book>
