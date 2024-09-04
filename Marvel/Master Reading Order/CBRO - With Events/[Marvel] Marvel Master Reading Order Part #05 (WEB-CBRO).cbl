@@ -171,6 +171,9 @@
 <Book Series="The Mighty Thor" Number="463" Volume="1989" Year="1993">
 <Database Name="cv" Series="61213" Issue="37376" />
 </Book>
+<Book Series="The Mighty Thor" Number="463" Volume="1989" Year="1993">
+<Database Name="cv" Series="61213" Issue="37376" />
+</Book>
 <Book Series="Avengers West Coast" Number="96" Volume="1989" Year="1993">
 <Database Name="cv" Series="18494" Issue="114290" />
 </Book>
