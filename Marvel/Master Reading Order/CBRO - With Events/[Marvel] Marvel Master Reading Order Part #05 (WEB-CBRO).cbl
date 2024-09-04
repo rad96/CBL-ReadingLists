@@ -129,6 +129,9 @@
 <Book Series="Spider-Man" Number="37" Volume="1990" Year="1993">
 <Database Name="cv" Series="4421" Issue="37668" />
 </Book>
+<Book Series="Spider-Man" Number="37" Volume="1990" Year="1993">
+<Database Name="cv" Series="4421" Issue="37668" />
+</Book>
 <Book Series="The Spectacular Spider-Man" Number="203" Volume="1976" Year="1993">
 <Database Name="cv" Series="2870" Issue="65597" />
 </Book>
