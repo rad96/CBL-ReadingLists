@@ -3291,6 +3291,9 @@
 <Book Series="The Uncanny X-Men" Number="296" Volume="1981" Year="1993">
 <Database Name="cv" Series="3092" Issue="107087" />
 </Book>
+<Book Series="The Uncanny X-Men" Number="296" Volume="1981" Year="1993">
+<Database Name="cv" Series="3092" Issue="107087" />
+</Book>
 <Book Series="X-Factor" Number="86" Volume="1986" Year="1993">
 <Database Name="cv" Series="3657" Issue="107136" />
 </Book>
