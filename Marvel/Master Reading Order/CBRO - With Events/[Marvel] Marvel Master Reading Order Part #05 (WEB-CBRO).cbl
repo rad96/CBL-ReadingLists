@@ -150,6 +150,9 @@
 <Book Series="Warlock and the Infinity Watch" Number="18" Volume="1992" Year="1993">
 <Database Name="cv" Series="4818" Issue="136883" />
 </Book>
+<Book Series="Warlock and the Infinity Watch" Number="18" Volume="1992" Year="1993">
+<Database Name="cv" Series="4818" Issue="136883" />
+</Book>
 <Book Series="Doctor Strange, Sorcerer Supreme" Number="54" Volume="1988" Year="1993">
 <Database Name="cv" Series="4049" Issue="37399" />
 </Book>
