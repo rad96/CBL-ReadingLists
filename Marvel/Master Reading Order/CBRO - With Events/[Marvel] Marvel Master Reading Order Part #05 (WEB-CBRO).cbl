@@ -39,6 +39,9 @@
 <Book Series="Cage" Number="11" Volume="1992" Year="1993">
 <Database Name="cv" Series="4779" Issue="101647" />
 </Book>
+<Book Series="Cage" Number="11" Volume="1992" Year="1993">
+<Database Name="cv" Series="4779" Issue="101647" />
+</Book>
 <Book Series="Cage" Number="12" Volume="1992" Year="1993">
 <Database Name="cv" Series="4779" Issue="101648" />
 </Book>
