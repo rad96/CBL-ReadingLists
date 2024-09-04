@@ -3366,6 +3366,9 @@
 <Book Series="Gambit" Number="2" Volume="1993" Year="1994">
 <Database Name="cv" Series="5011" Issue="94617" />
 </Book>
+<Book Series="Gambit" Number="2" Volume="1993" Year="1994">
+<Database Name="cv" Series="5011" Issue="94617" />
+</Book>
 <Book Series="Gambit" Number="3" Volume="1993" Year="1994">
 <Database Name="cv" Series="5011" Issue="94618" />
 </Book>
