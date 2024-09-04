@@ -3381,6 +3381,9 @@
 <Book Series="The Amazing Spider-Man" Number="375" Volume="1963" Year="1993">
 <Database Name="cv" Series="2127" Issue="64599" />
 </Book>
+<Book Series="The Amazing Spider-Man" Number="375" Volume="1963" Year="1993">
+<Database Name="cv" Series="2127" Issue="64599" />
+</Book>
 <Book Series="MyS-Tech Wars" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="20490" Issue="123032" />
 </Book>
