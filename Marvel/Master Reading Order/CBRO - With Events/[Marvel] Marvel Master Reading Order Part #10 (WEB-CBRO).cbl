@@ -1035,9 +1035,6 @@
 <Book Series="The Uncanny X-Men" Number="544" Volume="1981" Year="2011">
 <Database Name="cv" Series="3092" Issue="297216" />
 </Book>
-<Book Series="Avengers Academy" Number="22" Volume="2010" Year="2012">
-<Database Name="cv" Series="33633" Issue="302682" />
-</Book>
 <Book Series="Magneto: Not A Hero" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="43891" Issue="301653" />
 </Book>
@@ -3977,12 +3974,6 @@
 </Book>
 <Book Series="Avengers" Number="28" Volume="2012" Year="2014">
 <Database Name="cv" Series="54428" Issue="451765" />
-</Book>
-<Book Series="Uncanny X-Men" Number="19" Volume="2013" Year="2014">
-<Database Name="cv" Series="57181" Issue="448006" />
-</Book>
-<Book Series="Uncanny X-Men" Number="20" Volume="2013" Year="2014">
-<Database Name="cv" Series="57181" Issue="450557" />
 </Book>
 <Book Series="Uncanny X-Men" Number="21" Volume="2013" Year="2014">
 <Database Name="cv" Series="57181" Issue="453422" />
