@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[X-Men Krakoa] [2019-Present] The Age of Krakoa</Name>
-<NumIssues>616</NumIssues>
+<NumIssues>624</NumIssues>
 <Books>
 <Book Series="House of X" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="120309" Issue="714236" />
@@ -399,11 +399,11 @@
 <Book Series="Cable" Number="6" Volume="2020" Year="2021">
 <Database Name="cv" Series="125678" Issue="819095" />
 </Book>
-<Book Series="Excalibur" Number="15" Volume="2019" Year="2021">
-<Database Name="cv" Series="122488" Issue="819478" />
-</Book>
 <Book Series="X-Men" Number="15" Volume="2019" Year="2021">
 <Database Name="cv" Series="122077" Issue="819479" />
+</Book>
+<Book Series="Excalibur" Number="15" Volume="2019" Year="2021">
+<Database Name="cv" Series="122488" Issue="819478" />
 </Book>
 <Book Series="X of Swords: Destruction" Number="1" Volume="2020" Year="2021">
 <Database Name="cv" Series="132228" Issue="819480" />
@@ -1716,8 +1716,8 @@
 <Book Series="X-Force" Number="47" Volume="2020" Year="2024">
 <Database Name="cv" Series="122668" Issue="1038291" />
 </Book>
-<Book Series="Immortal X-Men" Number="3" Volume="2022" Year="2005">
-<Database Name="cv" Series="142053" Issue="142053" />
+<Book Series="Immortal X-Men" Number="18" Volume="2022" Year="2024">
+<Database Name="cv" Series="142053" Issue="1038387" />
 </Book>
 <Book Series="Fall of the House of X" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="155874" Issue="1038990" />
@@ -1821,6 +1821,9 @@
 <Book Series="Fall of the House of X" Number="4" Volume="2024" Year="2024">
 <Database Name="cv" Series="155874" Issue="1051494" />
 </Book>
+<Book Series="X-Men" Number="34" Volume="2021" Year="2024">
+<Database Name="cv" Series="137402" Issue="1053547" />
+</Book>
 <Book Series="Rise of the Powers of X" Number="4" Volume="2024" Year="2024">
 <Database Name="cv" Series="155968" Issue="1052938" />
 </Book>
@@ -1839,6 +1842,12 @@
 <Book Series="Wolverine" Number="48" Volume="2020" Year="2024">
 <Database Name="cv" Series="125121" Issue="1052947" />
 </Book>
+<Book Series="Wolverine" Number="49" Volume="2020" Year="2024">
+<Database Name="cv" Series="125121" Issue="1054385" />
+</Book>
+<Book Series="Wolverine" Number="50" Volume="2020" Year="2024">
+<Database Name="cv" Series="125121" Issue="1057018" />
+</Book>
 <Book Series="Dead X-Men" Number="4" Volume="2024" Year="2024">
 <Database Name="cv" Series="156494" Issue="1051493" />
 </Book>
@@ -1850,6 +1859,21 @@
 </Book>
 <Book Series="Cable" Number="4" Volume="2024" Year="2024">
 <Database Name="cv" Series="156139" Issue="1053536" />
+</Book>
+<Book Series="X-Men Forever" Number="3" Volume="2024" Year="2024">
+<Database Name="cv" Series="157312" Issue="1054386" />
+</Book>
+<Book Series="X-Men Forever" Number="4" Volume="2024" Year="2024">
+<Database Name="cv" Series="157312" Issue="1055038" />
+</Book>
+<Book Series="Fall of the House of X" Number="5" Volume="2024" Year="2024">
+<Database Name="cv" Series="155874" Issue="1056203" />
+</Book>
+<Book Series="Rise of the Powers of X" Number="5" Volume="2024" Year="2024">
+<Database Name="cv" Series="155968" Issue="1057008" />
+</Book>
+<Book Series="X-Men" Number="35" Volume="2021" Year="2024">
+<Database Name="cv" Series="137402" Issue="1058720" />
 </Book>
 </Books>
 <Matchers />
